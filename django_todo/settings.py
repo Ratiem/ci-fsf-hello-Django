@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ratiem-django-todo-app.herokuapp.com']
+ALLOWED_HOSTS = ['ratiem-django-todo-app.herokuapp.com', '8000-ratiem-cifsfhellodjango-nm8pnx8xpl7.ws-eu97.gitpod.io']
 
 
 # Application definition
